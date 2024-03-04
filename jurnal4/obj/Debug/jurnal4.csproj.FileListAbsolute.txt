@@ -1,0 +1,10 @@
+D:\modul4\jurnal4\jurnal4\bin\Debug\jurnal4.exe.config
+D:\modul4\jurnal4\jurnal4\bin\Debug\jurnal4.exe
+D:\modul4\jurnal4\jurnal4\bin\Debug\jurnal4.pdb
+D:\modul4\jurnal4\jurnal4\obj\Debug\jurnal4.csproj.AssemblyReference.cache
+D:\modul4\jurnal4\jurnal4\obj\Debug\jurnal4.Form1.resources
+D:\modul4\jurnal4\jurnal4\obj\Debug\jurnal4.Properties.Resources.resources
+D:\modul4\jurnal4\jurnal4\obj\Debug\jurnal4.csproj.GenerateResource.cache
+D:\modul4\jurnal4\jurnal4\obj\Debug\jurnal4.csproj.CoreCompileInputs.cache
+D:\modul4\jurnal4\jurnal4\obj\Debug\jurnal4.exe
+D:\modul4\jurnal4\jurnal4\obj\Debug\jurnal4.pdb
